@@ -1,5 +1,5 @@
-# [Brandon's Sanderson Cosmere]
-Brandon's Sanderson Cosmere is a webpage that provides information about the Cosmere, a fictional universe created by Brandon Sanderson. The website is a tribute to the Cosmere and the book written by Brandon Sanderson.
+# Brandon Sanderson's Cosmere
+Brandon Sanderson's Cosmere is a webpage that provides information about the Cosmere, a fictional universe created by Brandon Sanderson. The website is a tribute to the Cosmere and the book written by Brandon Sanderson.
 
 ## Table of contents
 - [Related content](#related-content)
@@ -51,7 +51,7 @@ User Story #2: I should see an element with a corresponding `id="title"`, which 
 Launch the project in your browser through the .html file.
 
 ## Demonstration
-[Try it!] (*Add link to a demo version.*)  
+[Try it!](https://dyrits.github.io/BRANDON-SANDERSON-S-COSMERE/)  
 You can also find this project on CodePen : https://codepen.io/Dyrits/full/JjYdbGZ
 
 ## Status
