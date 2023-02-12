@@ -3,7 +3,6 @@ Brandon Sanderson's Cosmere is a webpage that provides information about the Cos
 
 ## Table of contents
 - [Related content](#related-content)
-- [Screenshots](#screenshots)
 - [Technologies](#technologies-and-tools)
 - [Installation](#installation)
 - [Demonstration](#demonstration)
