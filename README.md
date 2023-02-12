@@ -1,5 +1,5 @@
 # Brandon Sanderson's Cosmere
-Brandon Sanderson's Cosmere is a webpage that provides information about the Cosmere, a fictional universe created by Brandon Sanderson. The website is a tribute to the Cosmere and the book written by Brandon Sanderson.
+Brandon Sanderson's Cosmere is a webpage that provides information about the Cosmere, a fictional universe created by Brandon Sanderson. The website is a tribute to the Cosmere and the book written by the author.
 
 ## Table of contents
 - [Related content](#related-content)
