@@ -65,6 +65,10 @@ Feel free to open an issue if you have any questions or comments.
 
 ### Changelog
 <details markdown="block">
+<summary><strong>Version 1.00.01 (02/2023)</strong></summary>
+The README has been updated.
+</details>
+<details markdown="block">
 <summary><strong>Version 1.00 (04/2020)</strong></summary>
 The first version of the project has been released.
 </details>
