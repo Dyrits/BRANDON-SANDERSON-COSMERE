@@ -50,7 +50,7 @@ User Story #2: I should see an element with a corresponding `id="title"`, which 
 Launch the project in your browser through the .html file.
 
 ## Demonstration
-[Try it!](https://dyrits.github.io/BRANDON-SANDERSON-S-COSMERE/)  
+[Try it!](https://dyrits.github.io/BS-COSMERE/)  
 You can also find this project on CodePen : https://codepen.io/Dyrits/full/JjYdbGZ
 
 ## Status
